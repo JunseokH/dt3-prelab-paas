@@ -1,12 +1,18 @@
 # dt3-prelab-paas
-0622-0628 4일간 진행되는 pre-lab 과정
+- 0622-0628 4일간 진행되는 pre-lab 과정
+- Hybrid Cloud2그룹
+- 현준석 (05864)
 
 - **PreLab 진행일정**
   - 분석/설계 : (1일차) 
     - ~~주제 도메인에 대한 분석/설계~~
     - ~~분석/설계 모델에 대한 마이크로서비스 구현~~
     - ~~MSA 아키텍처 구성 및 Cloud Platform 프로비저닝~~
-    - 산출물 : ~~기능 목록서, 이벤트스토밍 모델, 헥사고날 아키텍처,~~ MSA 아키텍처 구성도 
+    - 산출물 : ~~기능 목록서, 이벤트스토밍 모델, 헥사고날 아키텍처,~~ MSA 아키텍처 구성도
+    -- 진행사항 증적
+      ![스크린샷 2022-06-22 16 44 53](https://user-images.githubusercontent.com/48197252/174979323-544354a0-5b08-48d6-981b-722df4a43e90.png)
+      ![스크린샷 2022-06-22 16 44 44](https://user-images.githubusercontent.com/48197252/174979328-1b083cef-9168-46a4-81ee-8db314d612e4.png)
+
   
   - 배포/운영/모니터링 구현: (2~3일차) 
     - ~~DevOps Toolchain 구축~~
@@ -24,9 +30,9 @@
     - 제출 시, 반드시 소속과 이름을 기재
  
 - **체크포인트** 
-  - ~~MSA 아키텍처 구성
-  - ~~Cloud Platform 프로비저닝 
-  - DevOps Toolchain 구축 
+  - ~~MSA 아키텍처 구성~~
+  - ~~Cloud Platform 프로비저닝~~ 
+  - ~~DevOps Toolchain 구축~~ 
   - 분산 메시징 플랫폼 구성 
   - SLA 운영 - 오토 스케일아웃(Auto Scale-out) 
   - SLA 운영 - 무정지 배포(Zero downtime Deploy) 
