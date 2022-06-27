@@ -16,9 +16,9 @@
   
   - 배포/운영/모니터링 구현: (2~3일차) 
     - ~~DevOps Toolchain 구축~~
-    - 마이크로서비스 오케스트레이션 (오토 스케일아웃, 무정지 배포, EFS 스토리지 구성)
-    - 서비스 메쉬 구성 및 마이크로서비스에 SideCar Injection
-    - 통합 모니터링, 로깅, 메시징 플랫폼 모니터링 적용
+    - ~~마이크로서비스 오케스트레이션 (오토 스케일아웃, 무정지 배포, EFS 스토리지 구성)~~
+    - ~~서비스 메쉬 구성 및 마이크로서비스에 SideCar Injection~~
+    - ~~통합 모니터링~~, 로깅, 메시징 플랫폼 모니터링 적용
     - 산출물 : 파이프라인 구성도, 수행 증적(Microservice 오케스트레이션, 서비스 메시, 모니터링/로깅 구성도)  
  
   - 산출물 리뷰 : (4일차)
@@ -33,11 +33,13 @@
   - ~~MSA 아키텍처 구성~~
   - ~~Cloud Platform 프로비저닝~~ 
   - ~~DevOps Toolchain 구축~~ 
-  - 분산 메시징 플랫폼 구성 
-  - SLA 운영 - 오토 스케일아웃(Auto Scale-out) 
-  - SLA 운영 - 무정지 배포(Zero downtime Deploy) 
-  - Service Mesh 인프라 구축
-  - Service Mesh 기반 마이크로서비스 Resilience 적용
-  - 마이크로서비스 통합 모니터링
+  - ~~분산 메시징 플랫폼 구성~~
+  - ~~SLA 운영 - 오토 스케일아웃(Auto Scale-out)~~
+  - ~~SLA 운영 - 무정지 배포(Zero downtime Deploy)~~
+  - ~~Service Mesh 인프라 구축~~
+  - ~~Service Mesh 기반 마이크로서비스 Resilience 적용~~
+  - ~~마이크로서비스 통합 모니터링~~
   - 마이크로서비스 통합 로깅
   - 분산 메시징 플랫폼 모니터링
+
+## kibana 실행이 되지 않아, 진행 중, 마감 업무로 인해 지연
