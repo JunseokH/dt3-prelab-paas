@@ -21,9 +21,13 @@
     - 산출물 : 파이프라인 구성도, 수행 증적(Microservice 오케스트레이션, 서비스 메시, 모니터링/로깅 구성도)  
         ![스크린샷 2022-06-22 16 44 53](https://user-images.githubusercontent.com/48197252/174979323-544354a0-5b08-48d6-981b-722df4a43e90.png)
         ![스크린샷 2022-06-22 16 44 44](https://user-images.githubusercontent.com/48197252/174979328-1b083cef-9168-46a4-81ee-8db314d612e4.png)
+        ![istio system](https://user-images.githubusercontent.com/48197252/176065673-9aabeec0-c919-43e5-bed8-bccc786ddacd.png)
+
         
         
 ## kibana 실행이 되지 않아, 진행 중, 마감 업무로 인해 지연
+  - t3-large node 4 개로 인스턴스를 변경해도 cpu 부족 에러가 발생됨.
+    - ![pod describe](https://user-images.githubusercontent.com/48197252/176065316-17fc5105-cb63-464c-b89c-ad1c9735f445.png)
  
  
  
